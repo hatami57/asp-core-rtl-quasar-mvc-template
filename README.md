@@ -5,6 +5,7 @@ A boilerplate template that built with:
 * [VueJS](https://vuejs.org)
 * [Quasar Framework](https://quasar.dev) - RTL enabled
 * [Webpack](https://webpack.js.org/)
+* [Vazir Font](https://github.com/rastikerdar/vazir-font)
 
 ### Installation
 
