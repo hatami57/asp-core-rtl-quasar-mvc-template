@@ -1,0 +1,13 @@
+{
+  "author": "Majid Hatami",
+  "classifications": [ "Web", "Mvc", "Quasar", "Rtl" ],
+  "name": "RTL Quasar MVC Application",
+  "identity": "Meteor.Mvc.Quasar.Rtl",
+  "shortName": "quasar-mvc-rtl",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
+  "sourceName": "QuasarProject",
+  "preferNameDirectory": true
+}
