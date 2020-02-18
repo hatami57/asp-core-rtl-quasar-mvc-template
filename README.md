@@ -1,4 +1,4 @@
-# ASP.NET Core v3.1 RTL VueJS Quasar MVC Template
+# ASP.NET Core v3.1 RTL Quasar Framework MVC Template
 
 A boilerplate template that built with:
 
